@@ -3,7 +3,7 @@ Bank Code Checker
 
 ## 使い方
 ```
-$ bcc <bank code(comma delimited)
+$ bcc <bank code(comma delimited)>
 ```
 例
 ```
